@@ -135,4 +135,6 @@ In this project, PPO was applied to train an AI agent to play **Super Mario** us
 Author
 Abishek Ravi
 
+Thanks to Joseph Vincent,Mohammed Hansif and Ameer P Ibrahim for your valuable contibutions
+
 Feel free to connect or contribute to this project!
