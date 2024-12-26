@@ -130,47 +130,7 @@ In this project, PPO was applied to train an AI agent to play **Super Mario** us
 - [Stable-Baselines3 PPO Implementation](https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html)
 - [OpenAI Spinning Up Guide on PPO](https://spinningup.openai.com/en/latest/algorithms/ppo.html)
 
---- 
 
-## Demo
-Watch the AI in action!
-
-![Super Mario Gameplay](SuperMarioBros-v0%202024-12-26%2016-29-39.mp4)
-
-> *Note: Ensure the video file is uploaded to the repository to enable playback.*
-
----
-
-## How to Run the Project
-### Prerequisites
-1. Python 3.8 or above.
-2. Install dependencies:
-   ```bash
-   pip install gym[all] stable-baselines3 opencv-python
-Run the Training
-bash
-Copy code
-python train.py
-Evaluate the Model
-bash
-Copy code
-python evaluate.py
-Results
-The PPO algorithm demonstrated robust performance, allowing the agent to:
-
-Navigate obstacles and enemies with minimal failures.
-Achieve higher scores consistently across training iterations.
-Repository Structure
-bash
-Copy code
-.
-├── train.py        # Training script for the PPO algorithm
-├── evaluate.py     # Script to evaluate the trained model
-├── models/         # Saved models
-├── media/          # Video and image assets
-└── README.md       # Project documentation
-Acknowledgments
-Special thanks to Gym for the game environment and Stable-Baselines3 for the reinforcement learning toolkit.
 
 Author
 Abishek Ravi
