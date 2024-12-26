@@ -14,12 +14,11 @@ This project demonstrates the implementation of a **Proximal Policy Optimization
 ## Demo
 Watch the AI in action!
 
-![Super Mario Gameplay](SuperMarioBros-v0%202024-12-26%2016-29-39.mp4)
+[![Super Mario Gameplay](https://img.youtube.com/vi/KhsmDC6bTX8/0.jpg)](https://www.youtube.com/watch?v=KhsmDC6bTX8)
 
-
+> *Click the image above to watch the video on YouTube.*
 
 ---
-
 ## How to Run the Project
 ### Prerequisites
 1. Python 3.8 or above.
