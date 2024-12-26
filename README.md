@@ -16,7 +16,7 @@ Watch the AI in action!
 
 ![Super Mario Gameplay](SuperMarioBros-v0%202024-12-26%2016-29-39.mp4)
 
-> *Note: Ensure the video file is uploaded to the repository to enable playback.*
+
 
 ---
 
